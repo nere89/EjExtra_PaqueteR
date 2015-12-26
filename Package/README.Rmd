@@ -13,9 +13,9 @@ output: html_document
 ```{r}
 library(devtools)
 
-install_github("")
+install_github("nere89/EjExtra_PaqueteR, subdir="Package")
 
-library("")
+library("EjExtra")
 
 suma.dos.numeros(2,2)
 
@@ -23,5 +23,5 @@ suma.dos.numeros(2,5)
 
 ?suma.dos.numeros
 
-remove.packages("")
+remove.packages("EjExtra")
 ```
