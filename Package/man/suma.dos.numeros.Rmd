@@ -1,0 +1,19 @@
+---
+title: "suma.dos.numeros"
+author: "Nerea González"
+date: "15 de diciembre de 2015"
+output: html_document
+---
+
+\name{ suma.dos.numeros }
+\alias{ suma.dos.numeros }
+\description{ Operación matemática de adición entre dos números, que consiste en combinar el valor de dos números para obtener una cantidad total }
+\usage{ suma.dos.numeros(x,y) }
+\arguments{
+ \item{x}{ ~~Primer sumando~~ }
+ \item{y}{ ~~Segundo sumando~~ }
+}
+\value{ ~~Total~~ }
+\author{ Nerea González }
+\examples{ suma.dos.numeros(3,1) }
+\keyword{ ~suma }

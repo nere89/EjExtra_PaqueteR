@@ -1,0 +1,10 @@
+Package: EjExtra
+Type: Package
+Title: Funciones matemáticas basicas.
+Version: 0.1
+Date: 2015-12-15
+Author: Nerea Gonzalez <nerea.gonzalez@live.u-tad.com>
+Maintainer: Nerea Gonzalez <nerea.gonzalez@live.u-tad.com>
+Description: El paquete incluye funciones de operaciones matemáticas basicas, como la suma de dos números y la multiplicación de dos números.
+License: version 3.2.3
+Encoding: UTF-8

@@ -1,0 +1,19 @@
+---
+title: "producto.dos.numeros"
+author: "Nerea González"
+date: "15 de diciembre de 2015"
+output: html_document
+---
+
+\name{ producto.dos.numeros }
+\alias{ producto.dos.numeros }
+\description{ Operación matemática de multiplicación de dos números, que consiste en combinar el valor de dos números para obtener una cantidad total }
+\usage{ producto.dos.numeros(x,y) }
+\arguments{
+ \item{x}{ ~~Primer factor~~ }
+ \item{y}{ ~~Segundo factor~~ }
+}
+\value{ ~~Total~~ }
+\author{ Nerea González }
+\examples{ producto.dos.numeros(3,1) }
+\keyword{ ~producto }
