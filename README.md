@@ -2,10 +2,11 @@
 ## Creamos un paquete de R con dos funciones: suma.dos.numeros y producto.dos.numeros
 
 ####Para instalar el paquete, ejecutar y llamar a la ayuda de una de sus funciones, y después eliminar el paquete deberemos:
-#####library(devtools)
-#####install_github("")
-#####library("")
-#####suma.dos.numeros(2,2)
-#####suma.dos.numeros(2,5)
-#####?suma.dos.numeros
-#####remove.packages("")
+
+######library(devtools)
+######install_github("")
+######library("")
+######suma.dos.numeros(2,2)
+######suma.dos.numeros(2,5)
+######?suma.dos.numeros
+######remove.packages("")
