@@ -4,9 +4,9 @@
 ####Para instalar el paquete, ejecutar y llamar a la ayuda de una de sus funciones, y después eliminar el paquete deberemos:
 
 ######library(devtools)
-######install_github("")
-######library("")
+######install_github("nere89/EjExtra_PaqueteR, subdir="package")
+######library("EjExtra")
 ######suma.dos.numeros(2,2)
 ######suma.dos.numeros(2,5)
 ######?suma.dos.numeros
-######remove.packages("")
+######remove.packages("EjExtra")
